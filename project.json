@@ -1,0 +1,14 @@
+{
+  "name": "ChatFi",
+  "tagline": "AI-Powered DeFi Assistant on WhatsApp",
+  "description": "ChatFi is an AI-driven DeFi assistant accessible via WhatsApp using Twilio and Node.js. Users can check their wallet balances, swap tokens (e.g., TFIL↔USDFC), request staking options, and even analyze drone imagery using AI models. Built with Express.js, Twilio, and static mock responses, the bot simulates real DeFi experiences on Flow and Filecoin testnets.",
+  "team": [
+    {
+      "name": "Sambit Sargam",
+      "email": "sambitsargam2003@gmail.com"
+    }
+  ],
+  "demo_url": "",
+  "video_url": "https://youtube.com/watch?v=your-demo-video",
+  "technologies": ["Node.js", "Express", "Twilio", "Filecoin", "Flow", "JavaScript"]
+}
